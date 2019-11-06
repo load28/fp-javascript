@@ -25,11 +25,17 @@ const reducer = (f, acc, iter) => {
   return acc;
 };
 
+const go = (...args) => reducer((a, f) => f(a), args);
+
+const pipe = (f, ...fs) => (...as) => go(f(...as), ...fs);
+
 const log = console.log;
 
 module.exports = {
   filter,
   reducer,
   map,
-  log
+  log,
+  go,
+  pipe
 };
