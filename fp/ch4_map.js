@@ -16,11 +16,11 @@ const map = (f, iter) => {
   return res;
 };
 
-log(map(p => p.name, prod));
+log(map((p) => p.name, prod));
 
 function* gen() {
   yield 1;
   yield 2;
 }
-console.log(map(p => p + 10, gen()));
+console.log(map((p) => p + 10, gen()));
 // map의 다형
