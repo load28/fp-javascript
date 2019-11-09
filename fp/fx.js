@@ -34,11 +34,21 @@ const pipe = curry((f, ...fs) => (...as) => go(f(...as), ...fs));
 
 const log = console.log;
 
+const gn = function*(value) {
+  if (value instanceof Array) {
+    for (const a of value) yield a;
+  } else {
+    yield value;
+  }
+};
+
 module.exports = {
   filter,
   reducer,
   map,
   log,
   go,
-  pipe
+  pipe,
+  curry,
+  gn
 };
