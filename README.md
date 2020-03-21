@@ -13,4 +13,3 @@ The purpose of the fp learning is to achieve high readability and robust program
 3. ES6 Iterator for fp (ing)
 
 
-git revert
