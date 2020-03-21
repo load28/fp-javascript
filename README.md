@@ -14,3 +14,4 @@ The purpose of the fp learning is to achieve high readability and robust program
 
 
 git revert
+git add 2
