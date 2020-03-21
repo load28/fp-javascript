@@ -5,5 +5,7 @@
   "repository": "https://github.com/load28/fp-javascript.git",
   "author": "tjalsdud89 <tjalsdud89@naver.com>",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "fxjs": "^0.15.0"
+  }
 }
