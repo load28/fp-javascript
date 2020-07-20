@@ -1,11 +1,19 @@
 module.exports = {
   presets: [
-    ['@babel/preset-env', { modules: false, useBuiltIns: 'entry' }],
+    [
+      'env',
+      {
+        modules: false,
+        targets: {
+          node: 'current'
+        }
+      }
+    ],
     '@babel/preset-typescript'
   ],
   env: {
     test: {
-      presets: [['@babel/preset-env'], '@babel/preset-typescript']
+      presets: [['env'], '@babel/preset-typescript']
     }
   }
 };
