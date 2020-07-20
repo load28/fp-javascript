@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5e04183-ac9a-47ce-a34e-e09738662952" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
@@ -27,15 +28,14 @@
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jest.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fp-ts/fp-ts-1.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/fp-ts-1.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tsconfig.test.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fp-ts/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fp-ts/option.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/option.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/yarn-error.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fp/ch1_Primary_function.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/fp/ch1_Primary_function.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fp/ch2_Higher_order_fuction.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/fp/ch2_Higher_order_fuction.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fp/ch3_es6_Iterator.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/fp/ch3_es6_Iterator.js" afterDir="false" />
@@ -57,8 +57,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TypeScript File" />
         <option value="tsconfig.json" />
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -75,26 +76,28 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules/prettier" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="prettierjs.PrettierConfiguration.Package" value="$USER_HOME$/.config/yarn/global/node_modules/prettier" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\seo\WebstormProjects\fp-javascript\node_modules\prettier" />
     <property name="run.prettier.on.save" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\seo\WebstormProjects\fp-javascript\src" />
       <recent name="$PROJECT_DIR$/test" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/fp-ts" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -110,6 +113,7 @@
       <workItem from="1595041275630" duration="181000" />
       <workItem from="1595041490874" duration="1248000" />
       <workItem from="1595042761971" duration="16421000" />
+      <workItem from="1595245534999" duration="3483000" />
     </task>
     <servers />
   </component>
@@ -146,9 +150,14 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="443" y="270" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1595135164036" />
-    <state x="221" y="100" key="SettingsEditor" timestamp="1595043859300">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="461" y="250" key="FileChooserDialogImpl" timestamp="1595246741512">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="461" y="250" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595246741512" />
+    <state x="295" y="91" key="SettingsEditor" timestamp="1595246744056">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="295" y="91" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595246744056" />
     <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1595043859300" />
     <state x="508" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595139648145">
       <screen x="0" y="23" width="1440" height="877" />
