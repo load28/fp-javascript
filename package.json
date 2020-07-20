@@ -19,8 +19,5 @@
     "prettier": "^2.0.5",
     "regenerator-runtime": "^0.13.5",
     "typescript": "^3.9.7"
-  },
-  "dependencies": {
-    "fp-javascript": "./"
   }
 }
