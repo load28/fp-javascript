@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5e04183-ac9a-47ce-a34e-e09738662952" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +87,7 @@
       <workItem from="1595041490874" duration="1248000" />
       <workItem from="1595042761971" duration="16421000" />
       <workItem from="1595245534999" duration="7290000" />
-      <workItem from="1595277748639" duration="1043000" />
+      <workItem from="1595277748639" duration="1283000" />
     </task>
     <servers />
   </component>
