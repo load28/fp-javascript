@@ -1,0 +1,30 @@
+  
+language: node_js
+
+node_js:
+  - 'node'
+  - '12'
+  - '10'
+
+env:
+  - workerCount=3 timeout=600000
+  
+notifications:
+  slack: share-itgroup:14fvCO542s5QdXBIU0NMvhC8
+
+matrix:
+  fast_finish: true
+
+branches:
+  only:
+  - master
+
+install:
+  - yarn test
+
+cache:
+  directories:
+    - node_modules
+    
+git:
+  depth: 1
