@@ -9,9 +9,6 @@ node_js:
 env:
   - workerCount=3 timeout=600000
 
-before_script:
-  - yarn install
-
 notifications:
   slack: share-itgroup:14fvCO542s5QdXBIU0NMvhC8
 
@@ -23,11 +20,8 @@ branches:
   - master
 
 install:
+  - yarn install
   - yarn test
-
-cache:
-  directories:
-    - node_modules
 
 git:
   depth: 1
