@@ -1,7 +1,7 @@
 module.exports = {
   presets: [
     [
-      'env',
+      '@babel/env',
       {
         modules: false,
         targets: {
@@ -13,7 +13,7 @@ module.exports = {
   ],
   env: {
     test: {
-      presets: [['env'], '@babel/preset-typescript']
+      presets: [['@babel/env'], '@babel/preset-typescript']
     }
   }
 };
