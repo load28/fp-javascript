@@ -5,7 +5,7 @@
   "author": "load28 <tjalsdud89@naver.com>",
   "license": "MIT",
   "scripts": {
-    "test": "jest"
+    "test": "npx jest"
   },
   "devDependencies": {
     "@babel/core": "^7.10.5",
