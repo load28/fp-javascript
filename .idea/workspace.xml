@@ -20,7 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5e04183-ac9a-47ce-a34e-e09738662952" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fp-ts/option.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/fp-ts/option.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/option.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/test/option.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +63,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\seo\WebstormProjects\fp-javascript\node_modules\prettier" />
     <property name="run.prettier.on.save" value="true" />
@@ -91,7 +96,8 @@
       <workItem from="1595042761971" duration="16421000" />
       <workItem from="1595245534999" duration="7290000" />
       <workItem from="1595277748639" duration="3950000" />
-      <workItem from="1595285599193" duration="1518000" />
+      <workItem from="1595285599193" duration="1898000" />
+      <workItem from="1595302540454" duration="1198000" />
     </task>
     <servers />
   </component>
@@ -122,10 +128,11 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="443" y="270" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1595135164036" />
-    <state x="461" y="250" key="FileChooserDialogImpl" timestamp="1595246741512">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="461" y="252" key="FileChooserDialogImpl" timestamp="1595287428766">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="461" y="250" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595246741512" />
+    <state x="461" y="252" key="FileChooserDialogImpl/0.0.1920.1050/-1920.4.1920.1050@0.0.1920.1050" timestamp="1595287428766" />
     <state x="295" y="91" key="SettingsEditor" timestamp="1595246744056">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

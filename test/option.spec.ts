@@ -10,10 +10,10 @@ describe('option', () => {
   });
 
   test('fromNullable option', () => {
-    const result_1 = find<number>([1, 2, 3, 4], (a: number) => a === 4);
-    const result_2 = find<number>([1, 2, 3, 4], (a: number) => a === 5);
+    const resultOne = find<number>([1, 2, 3, 4], (a: number) => a === 4);
+    const resultTwo = find<number>([1, 2, 3, 4], (a: number) => a === 5);
 
-    expect(isSome(result_1)).toStrictEqual(true);
-    expect(result_2).toStrictEqual(none);
+    expect(isSome(resultOne)).toStrictEqual(true);
+    expect(resultTwo).toStrictEqual(none);
   });
 });

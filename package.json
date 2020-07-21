@@ -5,17 +5,27 @@
   "author": "load28 <tjalsdud89@naver.com>",
   "license": "MIT",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "tslint": "tslint --project tsconfig.json"
   },
   "devDependencies": {
-    "typescript": "^3.9.7",
     "@babel/core": "^7.10.5",
     "@babel/preset-env": "^7.10.4",
     "@babel/preset-typescript": "^7.10.4",
     "@types/jest": "^26.0.5",
     "babel-jest": "^26.1.0",
     "fp-ts": "^2.7.0",
+    "husky": "^4.2.5",
     "jest": "^26.1.0",
-    "prettier": "^2.0.5"
+    "prettier": "^2.0.5",
+    "tslint": "^6.1.2",
+    "tslint-config-airbnb": "^5.11.2",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^3.9.7"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "yarn tslint & yarn test"
+    }
   }
 }
