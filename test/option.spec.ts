@@ -11,7 +11,7 @@ describe('option', () => {
 
   test('fromNullable option', () => {
     const resultOne = find<number>([1, 2, 3, 4], (a: number) => a === 4);
-    const resultTwo = find<number>([1, 2, 3, 4], (a: number) => a === 1);
+    const resultTwo = find<number>([1, 2, 3, 4], (a: number) => a === 5);
 
     expect(isSome(resultOne)).toStrictEqual(true);
     expect(resultTwo).toStrictEqual(none);
