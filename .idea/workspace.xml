@@ -22,6 +22,10 @@
     <list default="true" id="c5e04183-ac9a-47ce-a34e-e09738662952" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/test/option.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/test/option.spec.ts" afterDir="false" />
+>>>>>>> dcfa817f5ca424bc4bec21e31b0f069e156545dd
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +44,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
   <component name="ProjectId" id="1eqFZp3Uswtst81Bt9vhEYLR2Qj" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -56,7 +63,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\seo\WebstormProjects\fp-javascript\node_modules\prettier" />
     <property name="run.prettier.on.save" value="true" />
@@ -87,19 +94,21 @@
       <workItem from="1595041275630" duration="181000" />
       <workItem from="1595041490874" duration="1248000" />
       <workItem from="1595042761971" duration="16421000" />
+<<<<<<< HEAD
       <workItem from="1595245534999" duration="3902000" />
       <workItem from="1595322592006" duration="253000" />
+=======
+      <workItem from="1595245534999" duration="7290000" />
+      <workItem from="1595277748639" duration="3950000" />
+      <workItem from="1595285599193" duration="1898000" />
+      <workItem from="1595302540454" duration="2012000" />
+      <workItem from="1595304699520" duration="16000" />
+>>>>>>> dcfa817f5ca424bc4bec21e31b0f069e156545dd
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
-    <option name="exactExcludedFiles">
-      <list>
-        <option value="$PROJECT_DIR$/fp-ts/fp-ts-1.js" />
-        <option value="$PROJECT_DIR$/fp-ts/fp-ts-1.js.map" />
-      </list>
-    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -125,10 +134,11 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="443" y="270" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1595135164036" />
-    <state x="461" y="250" key="FileChooserDialogImpl" timestamp="1595246741512">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="461" y="252" key="FileChooserDialogImpl" timestamp="1595287428766">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="461" y="250" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595246741512" />
+    <state x="461" y="252" key="FileChooserDialogImpl/0.0.1920.1050/-1920.4.1920.1050@0.0.1920.1050" timestamp="1595287428766" />
     <state x="295" y="91" key="SettingsEditor" timestamp="1595246744056">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

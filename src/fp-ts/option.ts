@@ -12,3 +12,5 @@ export function find<T>(as: T[], predicate: (a: T) => boolean): Option<T> {
   const finedItem: T = as.find(predicate) as T;
   return fromNullable<T>(finedItem);
 }
+
+
