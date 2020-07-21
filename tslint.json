@@ -7,7 +7,9 @@
     ],
     "jsRules": {},
     "rules": {
-        "trailing-comma": false
+        "trailing-comma": false,
+        "arrow-return-shorthand": true,
+        "arrow-parens": true
     },
     "rulesDirectory": []
 }

@@ -25,7 +25,7 @@ describe('eq', () => {
   test('contranmap', () => {
     type T = { a: number; b: string };
     const eq: Eq<string> = { equals: (x, y) => x === y };
-    const compareObj = contranMap<T, string>(eq, (m) => m.b);
+    const compareObj = contranMap<T, string>(eq, m => m.b);
     const resultOne = compareObj.equals({ a: 1, b: '1' }, { a: 1, b: '1' });
     const resultTwo = compareObj.equals({ a: 1, b: '2' }, { a: 1, b: '3' });
 
