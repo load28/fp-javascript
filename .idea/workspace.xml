@@ -20,12 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5e04183-ac9a-47ce-a34e-e09738662952" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tslint.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fp-ts/option.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/fp-ts/option.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/option.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/test/option.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +92,7 @@
       <workItem from="1595245534999" duration="7290000" />
       <workItem from="1595277748639" duration="3950000" />
       <workItem from="1595285599193" duration="1898000" />
-      <workItem from="1595302540454" duration="1198000" />
+      <workItem from="1595302540454" duration="1231000" />
     </task>
     <servers />
   </component>
