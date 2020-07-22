@@ -19,5 +19,9 @@ branches:
   only:
   - master
 
+install:
+  - yarn install
+  - yarn tslint
+
 git:
   depth: 1
