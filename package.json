@@ -5,7 +5,6 @@
   "author": "load28 <tjalsdud89@naver.com>",
   "license": "MIT",
   "scripts": {
-    "test": "jest",
     "tslint": "tslint --project tsconfig.json"
   },
   "devDependencies": {
