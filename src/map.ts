@@ -39,5 +39,5 @@ const result3 = filter<User>(testCase, user => user.id === 0);
 console.log(result1);
 console.log(result2);
 console.log(result3);
-
+console.log(result3);
 go<number, string>(20, (c: number) => console.log(c));
