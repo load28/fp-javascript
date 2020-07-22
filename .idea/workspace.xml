@@ -19,99 +19,55 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5e04183-ac9a-47ce-a34e-e09738662952" name="Default Changelist" comment="">
+    <list default="true" id="91407cd2-cd54-48e3-ae3f-4d95117ff44f" name="Default Changelist" comment="" />
+    <list id="4d9e0759-43e1-4451-8753-715affb07944" name="remove test hook" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-      <change beforePath="$PROJECT_DIR$/test/option.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/test/option.spec.ts" afterDir="false" />
->>>>>>> dcfa817f5ca424bc4bec21e31b0f069e156545dd
->>>>>>> 52799b5f0bdf901cc8b4363cd9a4d288b2115964
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/tslint.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="tsconfig.json" />
-        <option value="TypeScript File" />
-        <option value="JavaScript File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PackageJsonUpdateNotifier">
-    <dismissed value="$PROJECT_DIR$/package.json" />
-  </component>
-  <component name="ProjectId" id="1eqFZp3Uswtst81Bt9vhEYLR2Qj" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1f2Tzm1vQnobMJMsKq9dHYacrhO" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\seo\WebstormProjects\fp-javascript\node_modules\prettier" />
     <property name="run.prettier.on.save" value="true" />
     <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
-    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\seo\WebstormProjects\fp-javascript\src" />
-      <recent name="$PROJECT_DIR$/test" />
-      <recent name="$PROJECT_DIR$/src" />
-      <recent name="$PROJECT_DIR$/fp-ts" />
-    </key>
+    <property name="ts.external.directory.path" value="C:\Users\seo\WebstormProjects\fp-javascript\node_modules\typescript\lib" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c5e04183-ac9a-47ce-a34e-e09738662952" name="Default Changelist" comment="" />
-      <created>1595041273635</created>
+      <changelist id="91407cd2-cd54-48e3-ae3f-4d95117ff44f" name="Default Changelist" comment="" />
+      <changelist id="4d9e0759-43e1-4451-8753-715affb07944" name="remove test hook" comment="" />
+      <created>1595415452467</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1595041273635</updated>
-      <workItem from="1595041275630" duration="181000" />
-      <workItem from="1595041490874" duration="1248000" />
-      <workItem from="1595042761971" duration="16421000" />
-<<<<<<< HEAD
-      <workItem from="1595245534999" duration="3902000" />
-      <workItem from="1595322592006" duration="253000" />
-=======
-      <workItem from="1595245534999" duration="7290000" />
-      <workItem from="1595277748639" duration="3950000" />
-<<<<<<< HEAD
-      <workItem from="1595339413538" duration="88000" />
-      <workItem from="1595413634874" duration="34000" />
-=======
-      <workItem from="1595285599193" duration="1898000" />
-      <workItem from="1595302540454" duration="2012000" />
-      <workItem from="1595304699520" duration="16000" />
->>>>>>> dcfa817f5ca424bc4bec21e31b0f069e156545dd
->>>>>>> 52799b5f0bdf901cc8b4363cd9a4d288b2115964
+      <updated>1595415452467</updated>
+      <workItem from="1595415455867" duration="6725000" />
     </task>
     <servers />
   </component>
@@ -128,44 +84,23 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595240964657">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1595240964657" />
-    <state x="443" y="270" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595135164036">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="443" y="270" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1595135164036" />
-<<<<<<< HEAD
-    <state x="461" y="250" key="FileChooserDialogImpl" timestamp="1595339419502">
+    <state x="822" y="419" key="#TSLint" timestamp="1595416320454">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="250" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595339419502" />
-=======
-    <state x="461" y="252" key="FileChooserDialogImpl" timestamp="1595287428766">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="461" y="250" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595246741512" />
-    <state x="461" y="252" key="FileChooserDialogImpl/0.0.1920.1050/-1920.4.1920.1050@0.0.1920.1050" timestamp="1595287428766" />
->>>>>>> 52799b5f0bdf901cc8b4363cd9a4d288b2115964
-    <state x="295" y="91" key="SettingsEditor" timestamp="1595246744056">
+    <state x="822" y="419" key="#TSLint/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595416320454" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1595415489404">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="295" y="91" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595246744056" />
-    <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1595043859300" />
-    <state x="508" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595139648145">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="461" y="164" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595415489404" />
+    <state x="807" y="427" key="VCS.ChangelistChooser" timestamp="1595422107951">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="508" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1595139648145" />
-    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1595134316555">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="807" y="427" key="VCS.ChangelistChooser/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595422107951" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1595418010388">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1595134316555" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595418010388" />
   </component>
 </project>

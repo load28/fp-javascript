@@ -5,10 +5,12 @@
         "tslint-config-prettier",
         "tslint-config-airbnb"
     ],
-    "jsRules": {},
     "rules": {
         "trailing-comma": false,
-        "arrow-return-shorthand": true
+        "arrow-return-shorthand": true,
+        "no-console": false,
+        "prefer-const": true,
+        "no-shadowed-variable": false
     },
     "rulesDirectory": []
 }

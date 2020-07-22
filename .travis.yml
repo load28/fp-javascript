@@ -21,7 +21,7 @@ branches:
 
 install:
   - yarn install
-  - yarn test
+  - yarn tslint
 
 git:
   depth: 1
