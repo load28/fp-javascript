@@ -1,8 +1,14 @@
-const _ = require("./fx");
+const _ = require('./fx');
 
 const go = (...args) => _.reducer((a, f) => f(a), args);
 
-_.log(go(10, a => a + a, a => a / a));
+_.log(
+  go(
+    10,
+    a => a + a,
+    a => a / a
+  )
+);
 
 // pipe 합성된 함수를 반환, 즉시 실행을 하지 않으며 함수를 받아서 실행함
 
@@ -17,9 +23,9 @@ const f = pipe(
 _.log(f(1, 2));
 
 const prod = [
-  { name: "prod-1", price: 100 },
-  { name: "prod-2", price: 200 },
-  { name: "prod-3", price: 300 }
+  { name: 'prod-1', price: 100 },
+  { name: 'prod-2', price: 200 },
+  { name: 'prod-3', price: 300 }
 ];
 
 _.go(
