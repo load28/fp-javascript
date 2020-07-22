@@ -1,5 +1,4 @@
-# fp-javascript
-
+# fp-javascript [![Build Status](https://travis-ci.org/load28/fp-javascript.svg?branch=master)](https://travis-ci.org/load28/fp-javascript)
 functional programming by javascript
 
 ## purpose
