@@ -10,7 +10,9 @@
         "arrow-return-shorthand": true,
         "no-console": false,
         "prefer-const": true,
-        "no-shadowed-variable": false
+        "no-shadowed-variable": false,
+        "no-empty": false,
+        "no-parameter-reassignment": false
     },
     "rulesDirectory": []
 }
